@@ -1,0 +1,74 @@
+
+
+
+h2 {
+  text-align: center;
+}
+
+.box {
+  background-image: url(https://www.shutterstock.com/shutterstock/photos/2216986263/display_1500/stock-photo-bright-glowing-lights-of-district-in-megapolis-under-dusk-sky-in-evening-on-blurred-background-2216986263.jpg);
+  object-fit: fill;
+  height: 50vh;
+  width: 60vw;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  margin-top: 25vh;
+  margin-bottom: 25vh;
+
+  border: 2px solid;
+}
+
+.searchbar {
+  font-weight: bold;
+  background-color: transparent;
+  border: 3px solid;
+  margin-top: 5vh;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  height: 5vh;
+  width: 40vw;
+  border-radius: 25px;
+}
+
+.label1 {
+  font-size: x-large;
+  margin-left: 10vw;
+  margin-top: 4vh;
+  margin-bottom: 5vh;
+
+}
+
+.option_left {
+  border: 2px solid;
+  font-weight: bold;
+  background-color: transparent;
+  height: 5vh;
+  width: 15vw;
+  margin-left: 10vw;
+  margin-top: 2vh;
+  border-radius: 20px;
+}
+
+.option_right {
+  border: 2px solid;
+  font-weight: bold;
+  background-color: transparent;
+  height: 5vh;
+  width: 15vw;
+  margin-left: 5vw;
+  margin-top: 2vh;
+  margin-right: 10vw;
+  border-radius: 20px;
+}
+
+.search_button {
+  font-weight: bold;
+  background-color: transparent;
+  margin-top: 3vh;
+  margin-left: 15vw;
+  width: 30vw;
+  height: 5vh;
+  border-radius: 25px;
+  ;
+
+}
